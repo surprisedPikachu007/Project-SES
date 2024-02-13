@@ -1,0 +1,2899 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - cricket news today site:indianexpress.com",
+        "totalResults": "8180000",
+        "searchTerms": "cricket news today site:indianexpress.com",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "8238a86e200a44222"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - cricket news today site:indianexpress.com",
+        "totalResults": "8180000",
+        "searchTerms": "cricket news today site:indianexpress.com",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "8238a86e200a44222"
+      }
+    ]
+  },
+  "context": { "title": "search" },
+  "searchInformation": {
+    "searchTime": 0.497799,
+    "formattedSearchTime": "0.50",
+    "totalResults": "8180000",
+    "formattedTotalResults": "8,180,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Cricket News: Get Latest Cricket Updates, Live Cricket Score ...",
+      "htmlTitle": "<b>Cricket News</b>: Get <b>Latest Cricket Updates</b>, <b>Live Cricket Score</b> ...",
+      "link": "https://indianexpress.com/section/sports/cricket/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Cricket News: Get Latest Cricket Updates, Live Score, Match Results, Analysis, Schedule of Upcoming Cricket Matches at The Indian Express. Catch the Latesta0...",
+      "htmlSnippet": "<b>Cricket News</b>: Get <b>Latest Cricket Updates</b>, <b>Live</b> Score, Match Results, Analysis, <b>Schedule</b> of Upcoming Cricket Matches at The Indian Express. Catch the <b>Latest</b>&nbsp;...",
+      "cacheId": "NooKjFAqcBwJ",
+      "formattedUrl": "https://indianexpress.com/section/sports/cricket/",
+      "htmlFormattedUrl": "https://indianexpress.com/section/sports/<b>cricket</b>/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2WDDoXJkL_cLR_5BXyNsamKbd6wTmXpOxeGurEDeF84HFzGsyLjHzlms",
+            "width": "150",
+            "height": "83"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "The Indian Express",
+            "twitter:url": "https://indianexpress.com/section/sports/cricket/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "667",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "Cricket News: Get Latest Cricket Updates, Live Score, Match Results, Analysis, Schedule of Upcoming Cricket Matches at The Indian Express. Catch the Latest News of all International and Domestic Cricket Matches along with the Players Info, Stats, Records, Images, Videos and more.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1200",
+            "og:type": "website",
+            "twitter:title": "Cricket News: Get Latest Cricket Updates, Live Cricket Score, Upcoming Cricket Matches and Schedules",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "Cricket News: Get Latest Cricket Updates, Live Cricket Score, Upcoming Cricket Matches and Schedules",
+            "og:image:height": "667",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "Cricket News: Get Latest Cricket Updates, Live Score, Match Results, Analysis, Schedule of Upcoming Cricket Matches at The Indian Express. Catch the Latest News of all International and Domestic Cricket Matches along with the Players Info, Stats, Records, Images, Videos and more.",
+            "og:locale": "en_US",
+            "atdlayout": "sectionpage",
+            "og:url": "https://indianexpress.com/section/sports/cricket/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "India vs England Highlights, 2nd Test Day 4: IND beat ENG by 106 ...",
+      "htmlTitle": "India vs England Highlights, 2nd Test Day 4: IND beat ENG by 106 ...",
+      "link": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/",
+      "displayLink": "indianexpress.com",
+      "snippet": "3 days ago ... India vs England Live Score: Signing off. It has been an enthralling Test match cricket. While India won the game, there were always questionsa0...",
+      "htmlSnippet": "3 days ago <b>...</b> India vs England <b>Live Score</b>: Signing off. It has been an enthralling Test match <b>cricket</b>. While India won the game, there were always questions&nbsp;...",
+      "cacheId": "onITVh51ufUJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/india-vs-england-live-score-2nd-test-da...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/india-vs-england-live-score-2nd-test-da...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj38m53FlN50xqDuspbNuqBaveMgG3ZACsv8f5g5xseegSrmhsIQTdkKk",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "caption": "Second Test - India v England - Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam, India - February 4, 2024 India's Jasprit Bumrah reacts. (REUTERS/Francis Mascarenhas)",
+            "description": "IND vs ENG 2nd Test Live: India take on England at Dr. Y.S.Rajashekar Reddy ACA-VDCA International Cricket Stadium in Visakhapatnam",
+            "url": "https://images.indianexpress.com/2024/02/Bumrah-IND-win-2nd-test.jpg",
+            "height": "675"
+          },
+          {
+            "width": "600",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "60"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          }
+        ],
+        "person": [
+          {
+            "name": "Tanishq Vaddi",
+            "url": "https://indianexpress.com/profile/author/tanishq-vaddi/"
+          },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" },
+          { "name": "tanishq" }
+        ],
+        "organization": [
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" }
+        ],
+        "postaladdress": [{ "name": "India" }],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2024/02/Bumrah-IND-win-2nd-test.jpg",
+            "og:image:width": "1600",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-02-05T08:00:18+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "normal",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "900",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "India vs England Highlights, 2nd Test Day 4 Today: Indian bowling attack led by Jasprit Bumrah restricted England to 292 defending 399 to level the series.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2024/02/Bumrah-IND-win-2nd-test.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1600",
+            "article:modified_time": "2024-02-05T21:16:00+05:30",
+            "news_keywords": "India vs England, India vs England Live Score, India vs England 2nd Test, India vs England 2nd Test Day 4, IND vs ENG, IND vs ENG Live Score, IND vs ENG 2nd Test Day 4, Live Cricket Score, Live Score, Cricket News",
+            "og:type": "article",
+            "twitter:title": "India vs England Highlights, 2nd Test Day 4: IND beat ENG by 106 runs to level the series 1-1 in Visakhapatnam",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "India vs England Highlights, 2nd Test Day 4: IND beat ENG by 106 runs to level the series 1-1 in Visakhapatnam",
+            "og:image:height": "900",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "India vs England Highlights, 2nd Test Day 4 Today: Indian bowling attack led by Jasprit Bumrah restricted England to 292 defending 399 to level the series.",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          }
+        ],
+        "liveblogposting": [
+          {
+            "keywords": "India vs England",
+            "datemodified": "2024-02-05T21:16:41+05:30",
+            "articlesection": "sports",
+            "description": "India vs England Highlights, 2nd Test Day 4 Today: Indian bowling attack led by Jasprit Bumrah restricted England to 292 defending 399 to level the series.",
+            "coveragestarttime": "2024-02-05T21:16:41+05:30",
+            "coverageendtime": "2024-02-06T15:46:41+05:30",
+            "headline": "India vs England Highlights, 2nd Test Day 4: IND beat ENG by 106 runs to level the series 1-1 in Visakhapatnam",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/",
+            "datepublished": "2024-02-05T21:16:41+05:30",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          }
+        ],
+        "place": [{ "name": "India" }],
+        "cse_image": [
+          {
+            "src": "https://images.indianexpress.com/2024/02/Bumrah-IND-win-2nd-test.jpg"
+          }
+        ],
+        "event": [
+          {
+            "enddate": "2024-02-06T15:46:41+05:30",
+            "eventattendancemode": "Mixed",
+            "name": "India vs England Highlights, 2nd Test Day 4: IND beat ENG by 106 runs to level the series 1-1 in Visakhapatnam",
+            "eventstatus": "Live",
+            "startdate": "2024-02-05T21:16:41+05:30"
+          }
+        ],
+        "blogposting": [
+          {
+            "articlebody": "English pacer James Anderson made it clear that England will go all hell for leather when they come out to bat against India in a chase of 399 on Monday, the 4th day of the Test. “The chat...",
+            "datemodified": "2024-02-05T15:30:13+05:30",
+            "headline": "India vs England Live Score: James Anderson says England will try and chase down target of 399 in 60 or 70 overs",
+            "datepublished": "2024-02-05T15:30:13+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205153013",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "It has been an enthralling Test match cricket. While India won the game, there were always questions about whether they could do it. Going into the next Test big guns will be back and the hosts...",
+            "datemodified": "2024-02-05T15:19:39+05:30",
+            "headline": "India vs England Live Score: Signing off",
+            "datepublished": "2024-02-05T15:19:39+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205151939",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "As I said before, I don't look at numbers. As a youngster I did that and it made me excited. But now it's an added baggage. As a youngster that is the first delivery I learned (yorker). Had...",
+            "datemodified": "2024-02-05T14:48:43+05:30",
+            "headline": "India vs England Live Score: Bumrah after winning Player Of The Match",
+            "datepublished": "2024-02-05T14:48:43+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205144843",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "He is a champion player for us (Bumrah). When you win a game like that, you have to look at the overall performance as well. We were good with the bat. You know winning a Test in these conditions...",
+            "datemodified": "2024-02-05T14:48:20+05:30",
+            "headline": "India vs England Live Score: Rohit after the game",
+            "datepublished": "2024-02-05T14:43:46+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205144346",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Coming into this last innings, had full belief in ourselves that we'll chase it down. In moments like that, in games with scoreboard pressure, that's where we get the best out of ourselves....",
+            "datemodified": "2024-02-05T14:38:51+05:30",
+            "headline": "India vs England Live Score: Ben Stokes after the game",
+            "datepublished": "2024-02-05T14:38:51+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205143851",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Wonderful feeling, really enjoyed the game. One of the best moments to win a game for your country. We were just focusing on our process, focused on our fielding and I think it went well. (On...",
+            "datemodified": "2024-02-05T14:31:34+05:30",
+            "headline": "India vs England Live Score: Yashasvi Jaiswal after the game",
+            "datepublished": "2024-02-05T14:31:34+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205143134",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "9/86 vs Aus Melbourne 20189/91 vs Eng Vizag 20249/110 vs Eng Nottingham 2021",
+            "datemodified": "2024-02-05T14:24:40+05:30",
+            "headline": "India vs England Live Score: Bumrah's best spell",
+            "datepublished": "2024-02-05T14:24:40+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205142440",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Bumrah bowls a cracking delivery to Hartley and ends the innings. India levels the series 1-1. What a test match this has been. The Indian bowling has been fantastic and has shown their class....",
+            "datemodified": "2024-02-05T14:19:44+05:30",
+            "headline": "India vs England Live Score: IND beat ENG by 106 runs to level the series 1-1 in Visakhapatnam",
+            "datepublished": "2024-02-05T14:19:44+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205141944",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Ashwin has been brought back into attack and no prizes for guessing the reason behind it. We have a 30-minute extension because there is a probability of results feeling the umpires. Bumrah...",
+            "datemodified": "2024-02-05T14:16:00+05:30",
+            "headline": "India vs England Live Score: IND beat ENG by 106 runs to level the series 1-1 in Visakhapatnam",
+            "datepublished": "2024-02-05T14:16:00+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205141600",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "While India will probably win this game it is a question if they want to play a second seamer in the future. They did not use much of Siraj in Hyderabad while there is a scope of using a fast...",
+            "datemodified": "2024-02-05T14:04:13+05:30",
+            "headline": "India vs England Live Score: After 67.3 overs ENG 281/9",
+            "datepublished": "2024-02-05T14:04:13+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205140413",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Bumrah kept probing at a line and length to Foakes and out of nowhere he delivered a slow one. Foakes sucked it into the trap played with the hard hands and the ball went back straight to Bumrah...",
+            "datemodified": "2024-02-05T13:56:14+05:30",
+            "headline": "India vs England Live Score: After 66.2 overs ENG 279/8",
+            "datepublished": "2024-02-05T13:56:14+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205135614",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "This partnership is getting irritating for India now. They are chipping away at this target at the moment. India needs to be careful here. Rohit has turned to Bumrah and he needs to strike...",
+            "datemodified": "2024-02-05T13:47:03+05:30",
+            "headline": "India vs England Live Score: After 65 overs ENG 275/8",
+            "datepublished": "2024-02-05T13:47:03+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205134703",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Well R Ashwin delivers a ball and Hartley tries to reverse sweep the ball and the ball hits Hartley and loops in the air which Rohit at slip takes. The India players appealed and the umpire...",
+            "datemodified": "2024-02-05T13:37:34+05:30",
+            "headline": "India vs England Live Score: After 63 overs ENG 269/7",
+            "datepublished": "2024-02-05T13:37:34+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205133734",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Once again this noon session indicates how good this wicket is to bat on once you get through the morning session and deal with the moisture. There is not much of a turn-on offer. Apart from...",
+            "datemodified": "2024-02-05T13:26:10+05:30",
+            "headline": "India vs England Live Score: After 61.3 overs ENG 261/7",
+            "datepublished": "2024-02-05T13:26:10+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205132610",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "We have reached the drinks break in the noon session. England are playing their shots, especially Hartley. India are being patient and waiting for mistakes to happen. While India has only picked...",
+            "datemodified": "2024-02-05T13:15:54+05:30",
+            "headline": "India vs England Live Score: After 58 overs ENG 245/7",
+            "datepublished": "2024-02-05T13:15:54+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205131554",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Hartley walked into the middle came down the ground and hit the ball for a maximum. As long as he plays that way against Ashwin the off-spinner will feel he is closer to picking his 500th Test...",
+            "datemodified": "2024-02-05T13:04:29+05:30",
+            "headline": "India vs England Live Score: After 56 overs ENG 238/7",
+            "datepublished": "2024-02-05T13:04:29+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205130429",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Well, Ben Stokes has departed now. Foakes tried to sneak in a quick single by pushing the ball towards square-leg and Shreyas Iyer fielding there hit it directly. A bit of casual running from...",
+            "datemodified": "2024-02-05T12:56:12+05:30",
+            "headline": "India vs England Live Score: After 53.2 overs ENG 224/7",
+            "datepublished": "2024-02-05T12:56:12+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205125612",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Ashwin has been brought into the attack. He has come in from Bumrah's end where he has invariable bounce to work with. However, he needs to keep Stokes on strike for a longer period against...",
+            "datemodified": "2024-02-05T12:45:49+05:30",
+            "headline": "India vs England Live Score: After 51.2 overs ENG 217/6",
+            "datepublished": "2024-02-05T12:45:49+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205124549",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Kuldeep Yadav is bowling nicely here. He is tossing the ball up and letting the batters decide if they want to go after the bowling. While both England batters want him to take on they would...",
+            "datemodified": "2024-02-05T12:36:09+05:30",
+            "headline": "India vs England Live Score: After 48.5 overs ENG 210/6",
+            "datepublished": "2024-02-05T12:36:09+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205123609",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Bumrah and Kuldeep have started after lunch for India. There is nothing extravagant from Kuldeep's end but the ball is misbehaving in terms of bounce from Bumrah's end. The odd ball is keeping...",
+            "datemodified": "2024-02-05T12:23:20+05:30",
+            "headline": "India vs England Live Score: After 45.5 overs ENG 198/6",
+            "datepublished": "2024-02-05T12:23:20+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205122320",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "We are back and what a morning session we had. This too promises to be another cracker. Last time when England was spurred before lunch in Lords by Carey we saw what happened. They are spurred...",
+            "datemodified": "2024-02-05T12:10:17+05:30",
+            "headline": "India vs England Live Score: Welcome back!",
+            "datepublished": "2024-02-05T12:10:17+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205121017",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Before England took the field on Sunday, Brendon McCullum told them that “even if the target is 600, we are going for it’. They require just more than half of those runs on a pitch that...",
+            "datemodified": "2024-02-05T11:55:14+05:30",
+            "headline": "India vs England Live Score: India need collectivism as much as individual dazzle to win in Vizag",
+            "datepublished": "2024-02-05T11:55:14+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205115514",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "After Shubman Gill’s two-ball duck in the second innings of the Hyderabad Test, the team management had given him an ultimatum that Visakhapatnam would be his last chance to retain the No...",
+            "datemodified": "2024-02-05T11:47:27+05:30",
+            "headline": "India vs England Live Score: Before Vizag Test Shubman Gill was given ultimatum; batsman was ready for domestic grind",
+            "datepublished": "2024-02-05T11:47:27+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205114727",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Jasprit Bumrah picks Bairstow right before lunch. The ball jags back in slightly and hits the top of the pad of Bairstow who is on the back foot. The on-field umpire did give it out. However,...",
+            "datemodified": "2024-02-05T11:34:20+05:30",
+            "headline": "India vs England Live Score: After 42.4 overs ENG 194/6",
+            "datepublished": "2024-02-05T11:34:20+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205113420",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Kuldeep Yadav picks Zack Crawley. What a wicket that is right before the break. What a bowling change from Rohit Sharma. It was given not out by the umpire however, Rohit reviewed the decision....",
+            "datemodified": "2024-02-05T11:26:06+05:30",
+            "headline": "India vs England Live Score: After 42.1 overs ENG 194/5",
+            "datepublished": "2024-02-05T11:26:06+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205112606",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Bumrah has been brought into the attack. There might be a bit of a reverse swing on the offer for him. However, Bairstow has played a couple of sumptuous shots in that previous over. The Indian...",
+            "datemodified": "2024-02-05T11:20:13+05:30",
+            "headline": "India vs England Live Score: After 41.3 overs ENG 192/4",
+            "datepublished": "2024-02-05T11:20:13+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205112013",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "The ball has started to grip and turn now. Axar went past the outside a couple of times in his last over. Now the challenge will begin for the English batters. So far in this Test,, we have...",
+            "datemodified": "2024-02-05T11:09:32+05:30",
+            "headline": "India vs England Live Score: After 39 overs ENG 184/4",
+            "datepublished": "2024-02-05T11:09:32+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205110932",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Ashwin is in the middle of an extra ordinary spell here. He is coming around the wicket and creating the batters that doubt whether will the ball come in or go out. Root played an extremely...",
+            "datemodified": "2024-02-05T10:58:33+05:30",
+            "headline": "India vs England Live Score: After 35.3 overs ENG 167/4",
+            "datepublished": "2024-02-05T10:58:33+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205105833",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Joe Root comes down the track and plays an ugly swipe across the line gets the edge and carries to the third-man fielder inside the ring who takes a comfortable catch. Ashwin has picked his...",
+            "datemodified": "2024-02-05T10:48:58+05:30",
+            "headline": "India vs England Live Score: After 33 overs ENG 156/4",
+            "datepublished": "2024-02-05T10:48:58+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205104858",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "We have reached the first water break and it has been shared hour. While India has picked a couple of wickets England continued to keep the scoring going which is keeping the bowlers undercheck....",
+            "datemodified": "2024-02-05T10:40:21+05:30",
+            "headline": "India vs England Live Score: After 30.4 overs ENG 153/3",
+            "datepublished": "2024-02-05T10:40:21+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205104021",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Pope is looking in good touch here. He has been nimble on his feet so far. He has been sublime while going on the back foot and superb when coming down the track as well. In addition to that...",
+            "datemodified": "2024-02-05T10:30:27+05:30",
+            "headline": "India vs England Live Score: After 28.2 overs ENG 132/3",
+            "datepublished": "2024-02-05T10:30:27+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205103027",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Ashwin has been brought into the attack from Bumrah's end. Ollie Pope has looked good so far in this inning. He is playing his shots at the moment. He did unveil his reverse sweep early in...",
+            "datemodified": "2024-02-05T10:19:51+05:30",
+            "headline": "India vs England Live Score: After 25.4 overs ENG 125/2",
+            "datepublished": "2024-02-05T10:19:51+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205101951",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Axar gets the first wicket of the day. Rehan tries to work the ball on the leg side and misses the ball which came in with the angle and was trapped in front of the wicket. The batter did not...",
+            "datemodified": "2024-02-05T10:08:41+05:30",
+            "headline": "India vs England Live Score: After 22.4 overs ENG 101/2",
+            "datepublished": "2024-02-05T10:08:41+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205100841",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "England have now gone past 2/10th of the score for one wicket loss. India still has not managed to pick a wicket this morning. While Bumrah has bowled exceptionally well he did not pick any...",
+            "datemodified": "2024-02-05T09:59:07+05:30",
+            "headline": "India vs England Live Score: After 20.5 overs ENG 91/1",
+            "datepublished": "2024-02-05T09:59:07+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205095907",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Bumrah bowls a full one and Zack Crawley drives one through covers for a boundary. That will give him a lot of confidence as he was playing and missing plenty of deliveries. Meanwhile Axar...",
+            "datemodified": "2024-02-05T09:49:28+05:30",
+            "headline": "India vs England Live Score: After 18.1 overs ENG 82/1",
+            "datepublished": "2024-02-05T09:49:28+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205094928",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Jasprit Bumrah has taken the ball for India. If you are wondering if there was any movement guess what? There is plenty of it. There is moisture and the ball moves after going past the bat....",
+            "datemodified": "2024-02-05T09:40:47+05:30",
+            "headline": "India vs England Live Score: After 16 overs ENG 69/1",
+            "datepublished": "2024-02-05T09:40:47+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205094047",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Shubman Gill has hurt his right index finger and will not take the field today. Sarfaraz Khan is on for Gill.",
+            "datemodified": "2024-02-05T09:33:14+05:30",
+            "headline": "India vs England Live Score: Injury update",
+            "datepublished": "2024-02-05T09:33:14+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205093314",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "The sun is out and bright the crowd is buzzing yet again. The pitch looks good we are going to have another scintillating day of cricket. If England bats through the day they will win. The...",
+            "datemodified": "2024-02-05T09:29:59+05:30",
+            "headline": "India vs England Live Score: Let's go!",
+            "datepublished": "2024-02-05T09:29:59+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205092959",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "This is the most significant pitch report. We’ve seen a couple of balls with variable bounce. That is because there are a few huge cracks near the middle of the pitch. There are a few cracks...",
+            "datemodified": "2024-02-05T09:23:49+05:30",
+            "headline": "India vs England Live Score: Pitch report by Dinesh Karthik and Eoin Morgan",
+            "datepublished": "2024-02-05T09:23:49+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205092349",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Definitely very pleased but I left a bit out there to be honest. The first one I didn't feel it (inside edge onto pad). Shreyas told me to take it in case it's umpire's call. I saw the point...",
+            "datemodified": "2024-02-05T09:05:11+05:30",
+            "headline": "India vs England Live Score: Shubman Gill after day's play",
+            "datepublished": "2024-02-05T09:05:11+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205090511",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Before England took the field on Sunday, Brendon McCullum told them that “even if the target is 600, we are going for it’. They require just more than half of those runs on a pitch that...",
+            "datemodified": "2024-02-05T08:51:35+05:30",
+            "headline": "India vs England Live Score: India need collectivism as much as individual dazzle to win in Vizag",
+            "datepublished": "2024-02-05T08:51:35+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205085135",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "724 vs WI Mumbai WS 2011678 vs Eng Lord's 1990663 vs Pak Bengaluru 2005656 vs Ban Chattogram 2010651 vs Eng Vizag 2024638 vs Eng Hyderabad 2024STAT: England have scored 399+ in fourth innings...",
+            "datemodified": "2024-02-05T08:40:21+05:30",
+            "headline": "India vs England Live Score: Most runs in a Test for India without a 100+ partnership",
+            "datepublished": "2024-02-05T08:40:21+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205084021",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "After Shubman Gill’s two-ball duck in the second innings of the Hyderabad Test, the team management had given him an ultimatum that Visakhapatnam would be his last chance to retain the No...",
+            "datemodified": "2024-02-05T08:28:43+05:30",
+            "headline": "India vs England Live Score: Before Vizag Test Shubman Gill was given ultimatum; batsman was ready for domestic grind",
+            "datepublished": "2024-02-05T08:28:43+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205082843",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "The muted celebration when Shubman Gill got to his third Test century fitted his knock. There were no angry gestures or loud cries or fist pumping. Just a sigh of relief followed by a smile....",
+            "datemodified": "2024-02-05T08:19:33+05:30",
+            "headline": "India vs England Live Score: What the hundred means to Shubman Gill",
+            "datepublished": "2024-02-05T08:19:33+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205081933",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          },
+          {
+            "articlebody": "Hello and Welcome to the final day's play. It is going to be a cracker there are no two ways about it it. If England does chase these runs it is hard to see how India is going to come back...",
+            "datemodified": "2024-02-05T08:06:58+05:30",
+            "headline": "India vs England Live Score: Hola!",
+            "datepublished": "2024-02-05T08:06:58+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/#tie-lb-20240205080658",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/india-vs-england-live-score-2nd-test-day-4-ind-vs-eng-latest-scorecard-today-9144098/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'I should have never become a bowler… teammates were friends ...",
+      "htmlTitle": "&#39;I should have never become a bowler… teammates were friends ...",
+      "link": "https://indianexpress.com/article/sports/cricket/r-ashwin-i-should-have-never-become-a-bowler-teammates-were-friends-now-colleagues-8665512/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Jun 16, 2023 ... Indian Cricket News · Indian cricket team · R Ashwin · World Test ... Live · Interim Budget 2024 Live. LATEST STORIES. India vs South Africa Livea0...",
+      "htmlSnippet": "Jun 16, 2023 <b>...</b> Indian <b>Cricket News</b> &middot; Indian cricket team &middot; R Ashwin &middot; World Test ... <b>Live</b> &middot; Interim Budget 2024 <b>Live</b>. <b>LATEST</b> STORIES. India vs South Africa <b>Live</b>&nbsp;...",
+      "cacheId": "bloaE8R7EmsJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/r-ashwin-i-should-have-never-become-...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/r-ashwin-i-should-have-never-become-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdeJ-zE0ATjP-QcfF-nLZp_pUaLTRvWGym5nncrLKc7MXw4TaUaVZG2-k",
+            "width": "301",
+            "height": "167"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "url": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "height": "667"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2023/06/Ashwinnn-2col.jpg",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-06-16T04:05:38+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "paywall",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/r-ashwin-i-should-have-never-become-a-bowler-teammates-were-friends-now-colleagues-8665512/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "667",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "As someone who thinks deeply about his craft and the sport itself, Ashwin said his sincerity has been mocked as “overthinking”, and used to deprive him of leadership chances.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2023/06/Ashwinnn-2col.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1200",
+            "article:modified_time": "2023-06-17T08:36:12+05:30",
+            "news_keywords": "R Ashwin, R Ashwin interview, R Ashwin exclusive, R Ashwin talks to Indian Express. Ashwin speaks, Ashwin on WTC omission, World Test Championship final, WTC Final, India vs Australia, Cricket news, WTC news",
+            "og:type": "article",
+            "twitter:title": "‘I should have never become a bowler… teammates were friends, now colleagues’: R Ashwin",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "‘I should have never become a bowler… teammates were friends, now colleagues’: R Ashwin",
+            "og:image:height": "667",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "As someone who thinks deeply about his craft and the sport itself, Ashwin said his sincerity has been mocked as “overthinking”, and used to deprive him of leadership chances.",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/r-ashwin-i-should-have-never-become-a-bowler-teammates-were-friends-now-colleagues-8665512/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images.indianexpress.com/2023/06/Ashwinnn-2col.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cricket history in India today: Women's Premier League begins ...",
+      "htmlTitle": "<b>Cricket</b> history in India <b>today</b>: Women&#39;s Premier League begins ...",
+      "link": "https://indianexpress.com/article/sports/cricket/cricket-history-in-india-today-womens-premier-league-begins-8478302/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Mar 4, 2023 ... India and Mumbai Indians skipper Harmanpreet Kaur predicted that the WPL, from March 4 to March 26, would change lives and also raise thea0...",
+      "htmlSnippet": "Mar 4, 2023 <b>...</b> India and Mumbai Indians skipper Harmanpreet Kaur predicted that the WPL, from March 4 to March 26, would change lives and also raise the&nbsp;...",
+      "cacheId": "ylO5ZcBcpBsJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/cricket-history-in-india-today-womens-...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/<b>cricket</b>-history-in-india-<b>today</b>-womens-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Ax-KOiO1B-MckcdOqcnuvu4llGw2NDA8r1nKDokk_-MIqBitvlocnPBY",
+            "width": "301",
+            "height": "167"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "url": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "height": "667"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2023/03/WPL-3col.jpg",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-03-04T04:04:33+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "paywall",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/cricket-history-in-india-today-womens-premier-league-begins-8478302/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "667",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "India and Mumbai Indians skipper Harmanpreet Kaur predicted that the WPL, from March 4 to March 26, would change lives and also raise the standard of the game in the country.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2023/03/WPL-3col.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1200",
+            "article:modified_time": "2023-03-07T15:05:11+05:30",
+            "news_keywords": "Women’s Premier League, Premier league, Mumbai Indians, Delhi Capitals, T20 world Cup, sport news, Indian Express, India news, current affairs",
+            "og:type": "article",
+            "twitter:title": "Cricket history in India today: Women’s Premier League begins",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "Cricket history in India today: Women’s Premier League begins",
+            "og:image:height": "667",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "India and Mumbai Indians skipper Harmanpreet Kaur predicted that the WPL, from March 4 to March 26, would change lives and also raise the standard of the game in the country.",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/cricket-history-in-india-today-womens-premier-league-begins-8478302/"
+          }
+        ],
+        "cse_image": [
+          { "src": "https://images.indianexpress.com/2023/03/WPL-3col.jpg" }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "BCCI to airlift Rishabh Pant from Dehradun to Mumbai | Cricket News",
+      "htmlTitle": "BCCI to airlift Rishabh Pant from Dehradun to Mumbai | <b>Cricket News</b>",
+      "link": "https://indianexpress.com/article/sports/cricket/bcci-to-airlift-rishabh-pant-from-dehradun-to-mumbai-8360917/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Jan 4, 2023 ... I have decided that BCCI will take care of his medical expenses and we will airlift Pant today (Wednesday) to Mumbai's Kokilaben Hospital fora0...",
+      "htmlSnippet": "Jan 4, 2023 <b>...</b> I have decided that BCCI will take care of his medical expenses and we will airlift Pant <b>today</b> (Wednesday) to Mumbai&#39;s Kokilaben Hospital for&nbsp;...",
+      "cacheId": "_KWUjTrBmnUJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/bcci-to-airlift-rishabh-pant-from-dehra...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/bcci-to-airlift-rishabh-pant-from-dehra...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkmNjWPSt0qStvhS3jIxoVCOmPTKmEThnnaZKEuBj12r3h2wvrQBMrOSCI",
+            "width": "301",
+            "height": "167"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "url": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "height": "667"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2022/12/rishabh-pant-accident_ap_1200.jpg",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-01-04T15:02:37+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "paywall",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/bcci-to-airlift-rishabh-pant-from-dehradun-to-mumbai-8360917/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "667",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "Secretary Jay Shah says medical expenses will be taken care by the BCCI as Pant set for further treatment at Kokilaben Hospital",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2022/12/rishabh-pant-accident_ap_1200.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1200",
+            "article:modified_time": "2023-01-04T21:08:51+05:30",
+            "news_keywords": "BCCI, Rishabh Pant, Rishabh Pant injury, Pant to airlift, BCCI airlifts Rishabh Pant",
+            "og:type": "article",
+            "twitter:title": "BCCI to airlift Rishabh Pant from Dehradun to Mumbai",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "BCCI to airlift Rishabh Pant from Dehradun to Mumbai",
+            "og:image:height": "667",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "Secretary Jay Shah says medical expenses will be taken care by the BCCI as Pant set for further treatment at Kokilaben Hospital",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/bcci-to-airlift-rishabh-pant-from-dehradun-to-mumbai-8360917/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images.indianexpress.com/2022/12/rishabh-pant-accident_ap_1200.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bangladesh vs Sri Lanka Highlights, World Cup 2023: Shakib and ...",
+      "htmlTitle": "Bangladesh vs Sri Lanka Highlights, World Cup 2023: Shakib and ...",
+      "link": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Nov 6, 2023 ... ... Live Score: Bangladesh vs Sri Lanka, ICC Cricket World Cup 2023 BAN vs SL World Cup 2023 Highlights: Angelo Mathews walks after being deemeda0...",
+      "htmlSnippet": "Nov 6, 2023 <b>...</b> ... <b>Live Score</b>: Bangladesh vs Sri Lanka, <b>ICC Cricket</b> World Cup 2023 BAN vs SL World Cup 2023 Highlights: Angelo Mathews walks after being deemed&nbsp;...",
+      "cacheId": "T_s_wgaxAbYJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/bangladesh-vs-sri-lanka-live-score-icc-c...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/bangladesh-vs-sri-lanka-live-score-icc-<b>c</b>...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRluZ9k40GPvqZAKE1C_7-xgmpapMzftXGyB3bQLXiHUzlojutfEY0xJn4A",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "caption": "BAN vs SL World Cup 2023 Highlights: Angelo Mathews walks after being deemed as dismissed against Sri Lanka at the Arun Jaitley Stadium in Delhi.",
+            "description": "World Cup 2023 Live Score: Bangladesh vs Sri Lanka, ICC Cricket World Cup 2023, Arun Jaitley Stadium, Delhi",
+            "url": "https://images.indianexpress.com/2023/11/Mathews-dismissal.jpg",
+            "height": "675"
+          },
+          {
+            "width": "600",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "60"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://pbs.twimg.com/media/F-Po9hTbUAAKtA7?format=jpg&name=large",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          },
+          {
+            "width": "480",
+            "url": "https://images.indianexpress.com/2016/02/default-img-ie.jpg",
+            "height": "267"
+          },
+          {
+            "width": "125",
+            "url": "https://images.indianexpress.com/2019/11/ienewlogo3_new.png",
+            "height": "26"
+          }
+        ],
+        "person": [
+          {
+            "name": "Rahul Sadhu",
+            "url": "https://indianexpress.com/profile/author/rahul-sadhu/"
+          },
+          {
+            "name": "Rahul Pandey",
+            "url": "https://indianexpress.com/profile/author/rahul-pandey/"
+          },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "Rahul Pandey" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "amitkamath" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" },
+          { "name": "rahulsadhu9" }
+        ],
+        "organization": [
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" },
+          { "name": "The Indian Express" }
+        ],
+        "postaladdress": [{ "name": "India" }],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2023/11/Mathews-dismissal.jpg",
+            "og:image:width": "1600",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-11-06T12:01:46+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "normal",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "900",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "BAN vs SL Highlights, World Cup 2023: The win marked only a second for Bangladesh at this World Cup, first since their opening match win against Afghanistan.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2023/11/Mathews-dismissal.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1600",
+            "article:modified_time": "2023-11-06T23:23:00+05:30",
+            "news_keywords": "Bangladesh vs Sri Lanka, Bangladesh vs Sri Lanka Live Score, Bangladesh vs Sri Lanka World Cup 2023, World Cup 2023 Live, ICC Men's ODI World Cup 2023, Cricket World Cup 2023, BAN vs SL, BAN vs SL Live Score, BAN vs SL World Cup 2023, Arun Jaitley Stadium Delhi, Live Cricket Score, Live Score, Indian Express World Cup 2023",
+            "og:type": "article",
+            "twitter:title": "Bangladesh vs Sri Lanka Highlights, World Cup 2023: Shakib and Shanto help BAN prevail by three-wickets in Angelo Mathews timed-out match",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "Bangladesh vs Sri Lanka Highlights, World Cup 2023: Shakib and Shanto help BAN prevail by three-wickets in Angelo Mathews timed-out match",
+            "og:image:height": "900",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "BAN vs SL Highlights, World Cup 2023: The win marked only a second for Bangladesh at this World Cup, first since their opening match win against Afghanistan.",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          }
+        ],
+        "liveblogposting": [
+          {
+            "keywords": "Bangladesh vs Sri Lanka",
+            "datemodified": "2023-11-06T23:23:30+05:30",
+            "articlesection": "sports",
+            "description": "BAN vs SL Highlights, World Cup 2023: The win marked only a second for Bangladesh at this World Cup, first since their opening match win against Afghanistan.",
+            "coveragestarttime": "2023-11-06T23:23:30+05:30",
+            "coverageendtime": "2023-11-07T17:53:30+05:30",
+            "headline": "Bangladesh vs Sri Lanka Highlights, World Cup 2023: Shakib and Shanto help BAN prevail by three-wickets in Angelo Mathews timed-out match",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/",
+            "datepublished": "2023-11-06T23:23:30+05:30",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          }
+        ],
+        "place": [{ "name": "India" }],
+        "cse_image": [
+          {
+            "src": "https://images.indianexpress.com/2023/11/Mathews-dismissal.jpg"
+          }
+        ],
+        "event": [
+          {
+            "enddate": "2023-11-07T17:53:30+05:30",
+            "eventattendancemode": "Mixed",
+            "name": "Bangladesh vs Sri Lanka Highlights, World Cup 2023: Shakib and Shanto help BAN prevail by three-wickets in Angelo Mathews timed-out match",
+            "eventstatus": "Live",
+            "startdate": "2023-11-06T23:23:30+05:30"
+          }
+        ],
+        "blogposting": [
+          {
+            "articlebody": "Shakib Al Hasan:",
+            "datemodified": "2023-11-06T22:25:16+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Captains on the mic",
+            "datepublished": "2023-11-06T22:25:16+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106222516",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Angelo Mathews to Tanzim Hasan Sakib. Full and slanted down the leg stump and the latter flicks it down fine leg for four. And that does it. Bangladesh have finally wrapped this up. A three...",
+            "datemodified": "2023-11-06T22:02:58+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Bangladesh win!",
+            "datepublished": "2023-11-06T22:02:58+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106220258",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Wow! Mehidy Hasan Miraz has chipped Maheesh Theekshana straight to the fielder at wide long off. This, with just 11 runs needed off the last 10 overs. That wasn't required, was it? Or are Banglades...",
+            "datemodified": "2023-11-06T21:58:21+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 41 overs, BAN are 278/7.",
+            "datepublished": "2023-11-06T21:55:47+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106215547",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Towhid Hridoy takes the aerial route. WHAT A SHOT THAT! Length ball, picked on the rise by standing in his crease and swung over square leg with a strong bottom hand coming into play. Bangladesh...",
+            "datemodified": "2023-11-06T21:55:54+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 40 overs, BAN are 268/6",
+            "datepublished": "2023-11-06T21:49:56+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106214956",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Another one bites the dust! Mahmudullah is cleaned up by Maheesh Theekshana. A yorker length ball, pitch perfect on the stumps, and bowled! Mahmudullah was bamboozled there and Sri Lanka are...",
+            "datemodified": "2023-11-06T21:47:09+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 39 overs, BAN are 256/6",
+            "datepublished": "2023-11-06T21:43:58+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106214358",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Bowled 'em! Mahmudullah had gotten a couple of angled in deliveries in the last over, too far down the leg side. This one is pitched from outside off and makes way onto the stumps. Skidded...",
+            "datemodified": "2023-11-06T21:41:23+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 38 overs, BAN are 255/5",
+            "datepublished": "2023-11-06T21:38:13+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106213813",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Dushmantha Chameera from the other end. An expensive over. Angles one into Mahmudullah, it brushes off his pads and runs down fine leg for four. Does it again, and this time, Mahmudullah lofts...",
+            "datemodified": "2023-11-06T21:35:41+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 37 overs, BAN are 247/4",
+            "datepublished": "2023-11-06T21:35:41+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106213541",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Mathews continues from the other end. Goes back of a length and Mahmudullah shimmies down the track - looking to loft it through the in field on the off side - induces a thick inside edge wide...",
+            "datemodified": "2023-11-06T21:31:10+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 36 overs, BAN are 232/4",
+            "datepublished": "2023-11-06T21:31:10+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106213110",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Madushanka to Mahmudullah. Short ball and Bangladesh's century man, their only century man at this World Cup, helps it down fine leg for six. Even a couple of wickets may not be enough to seal...",
+            "datemodified": "2023-11-06T21:25:30+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 35 overs, BAN are 224/4",
+            "datepublished": "2023-11-06T21:25:30+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106212530",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Theekshana keeps it tight from the other end. Just the one run off his seventh over. And then, Mathews furthers his redemption arc. Length and slow to Shanto, who chops it onto his stumps....",
+            "datemodified": "2023-11-06T21:24:01+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 34 overs, BAN are 216/4",
+            "datepublished": "2023-11-06T21:17:31+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106211731",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Oh my my! Look at how the cards have fallen into place for this one. Shakib Al Hasan was dropped off Angelo Mathews' first over by Charith Asalanka earlier in the game. Now, Asalanla holds...",
+            "datemodified": "2023-11-06T21:09:10+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 32 overs, BAN are 210/3",
+            "datepublished": "2023-11-06T21:09:10+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106210910",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Rajitha back into the attack, and it's another expensive over from him. In fact, the most expensive over of the Bangladesh innings so far. Three fours and a six come off it. First it's a pull...",
+            "datemodified": "2023-11-06T21:01:21+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 30 overs, BAN are 206/2",
+            "datepublished": "2023-11-06T21:01:21+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106210121",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Dushmantha Chameera to Shakib Al Hasan. Length ball outside the off stump and the Bangladesh skipper smacks it through covers for four. Six runs from the over and Bangladesh are inching towards...",
+            "datemodified": "2023-11-06T20:53:25+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 29 overs, BAN are 187/2",
+            "datepublished": "2023-11-06T20:53:25+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106205325",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "The dew may be a factor to consider when Sri Lanka do the post-mortem of this game, alongside their World Cup, but their persistence with the short length on the night has to be looked at independe...",
+            "datemodified": "2023-11-06T20:45:57+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 28 overs, BAN are 181/2",
+            "datepublished": "2023-11-06T20:45:57+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106204557",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Another long break in the game because the Sri Lankan players have swarmed the umpires with a query to change the ball. The umpires aren't having it though. Angelo Mathews, unhappy as he has...",
+            "datemodified": "2023-11-06T20:39:43+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 27 overs, BAN are 173/2",
+            "datepublished": "2023-11-06T20:39:43+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106203943",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Another boundary. Dhananjaya to Shanto, full and outside the off stump, the southpaw picks it and fetches wide of the fielder at short fine for four more runs. Seven runs come from the over.",
+            "datemodified": "2023-11-06T20:34:48+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 26 overs, BAN are 168/2",
+            "datepublished": "2023-11-06T20:34:48+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106203448",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Shakib Al Hasan with another boundary. Gets lucky with another outside edge off an attempted drive outside the off stump that flies behind for four runs. Brings up his half century - first...",
+            "datemodified": "2023-11-06T20:31:29+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 25 overs, BAN are 161/2",
+            "datepublished": "2023-11-06T20:31:29+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106203129",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Dhanajaya de Silva to Shanto, sliding down the leg side and the latter helps it down with a sweep. Goes all the way down the fine leg fence. 150 up for Bangladesh.",
+            "datemodified": "2023-11-06T20:26:41+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 24 overs, BAN are 153/2",
+            "datepublished": "2023-11-06T20:26:41+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106202641",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Mathews breaks the boundary streak, but barely slows down the run rate. Seven runs stealed off that over and Bangladesh are well above the required rate at the moment. Stat alert: First 100...",
+            "datemodified": "2023-11-06T20:35:56+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 23 overs, BAN are 147/2",
+            "datepublished": "2023-11-06T20:20:23+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106202023",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Dhanajaya de Silva into the attack. The right arm off break goes short and Shakib rocks back deep in his crease to pull it over mid wicket for four. The partnership rockets to 99 and Sri Lanka...",
+            "datemodified": "2023-11-06T20:18:11+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 22 overs, BAN are 140/2",
+            "datepublished": "2023-11-06T20:18:11+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106201811",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Angelo Mathews back into the attack, and it ain't a happy return. Shanto continues the onslaught. Back to back boundaries, and brings up his fifty. Mathews on the other hand, with another shake...",
+            "datemodified": "2023-11-06T20:14:25+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 21 overs, BAN are 133/2",
+            "datepublished": "2023-11-06T20:14:25+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106201425",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Kasun Rajitha entrusted with a third over, Sri Lanka have to get him back in the groove. He's been their second leading wicket taker at this World Cup. After 24 runs from his first two overs,...",
+            "datemodified": "2023-11-06T20:10:44+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 20 overs, BAN are 123/2",
+            "datepublished": "2023-11-06T20:10:44+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106201044",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "The boundaries keep on pouring. A full and wide delivery from Madushanka, and Shanto leans forward for a drive but gets a thick outside edge that flies over backward point for four. Later in...",
+            "datemodified": "2023-11-06T20:09:12+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 19 overs, BAN are 119/2",
+            "datepublished": "2023-11-06T20:09:12+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106200912",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "100 comes up for Bangladesh. Shanto with the back-to-back boundaries off Rajitha, who's gone for another expensive over here. Has given away 24 from his two overs today. Fraction short and...",
+            "datemodified": "2023-11-06T20:00:57+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 18 overs, BAN are 108/2",
+            "datepublished": "2023-11-06T20:00:57+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106200057",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Madushanka into his sixth over. And the umpires have been pursuaded by the Sri Lankan quick to change the wet ball with the seam coming off. Next ball, with the new ball, Shanto goes short...",
+            "datemodified": "2023-11-06T19:55:39+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 17 overs, BAN are 97/2",
+            "datepublished": "2023-11-06T19:55:39+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106195539",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Theekshana back into the attack and Shakib has a crack at him. Sits down and has a sweep down backward square leg for four. Then, makes the most of the width outside the off stump with a cut...",
+            "datemodified": "2023-11-06T19:47:42+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 16 overs, BAN are 90/2",
+            "datepublished": "2023-11-06T19:47:42+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106194742",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Chameera comes round the wicket to Shakib. Angles one in, overpitches, and is smothered down the ground for four. Cracking shot from the Bangladesh skipper. Six runs come from the over.",
+            "datemodified": "2023-11-06T19:41:03+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 15 overs, BAN are 81/2",
+            "datepublished": "2023-11-06T19:41:03+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106194103",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Mathews into his second over. Just the one run comes off his second. Meanwhile, Maheesh Theekshana comes in from the other end and there's a fired-up exchange between Shanto and Samarwickrama....",
+            "datemodified": "2023-11-06T19:36:24+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 14 overs, BAN are 75/2",
+            "datepublished": "2023-11-06T19:34:29+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106193429",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Adrian Holdstock:",
+            "datemodified": "2023-11-06T19:31:18+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Fourth official on Mathews' dismissal",
+            "datepublished": "2023-11-06T19:31:18+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106193118",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Chameera to Shakib. Short, and the Bangladesh skipper hooks it over fine leg for six. The right-armer - coming over the wicket - amps up the pace and the southpaw tries to ramp him but is only...",
+            "datemodified": "2023-11-06T19:25:44+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 12 overs, BAN are 71/2",
+            "datepublished": "2023-11-06T19:25:44+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106192544",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Right then. Angelo Mathews comes in to bowl his first over. With that dismissal behind him. With a look of focus, and a crucial two points on the line. And he almost nabs a big wicket! The...",
+            "datemodified": "2023-11-06T19:23:46+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 11 overs, BAN are 61/2",
+            "datepublished": "2023-11-06T19:23:46+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106192346",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Chameera into his second over. Another economical over this from him. Just the three runs come off it. Side note: the dew has started to play it's role. A massive slip of the ball leading to...",
+            "datemodified": "2023-11-06T19:18:04+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After 10 overs, BAN are 57/2",
+            "datepublished": "2023-11-06T19:18:04+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106191804",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Madushanka into a fifth over. Fifty comes up for Sri Lanka. Shanto advances down the track and meets a length ball on the up with a flick shot that runs down deep square leg for four.",
+            "datemodified": "2023-11-06T19:11:51+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After nine overs, BAN are 54/2",
+            "datepublished": "2023-11-06T19:11:51+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106191151",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Dushmantha Chameera into the attack. Goes short and Shakib Al Hasan swivels across to claim a pull shot for four runs. Fine leg gives it a chase but it's timed well.",
+            "datemodified": "2023-11-06T19:07:24+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After eight overs, BAN are 48/2",
+            "datepublished": "2023-11-06T19:07:24+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106190724",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Madushanka strikes again! Nice, angled in, toecrusher and the umpire takes little time to raise his finger. Litton Das isn't going for a review here. What a tournament Sri Lanka's 23-year-old...",
+            "datemodified": "2023-11-06T19:01:23+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After seven overs, BAN are 43/2",
+            "datepublished": "2023-11-06T19:01:23+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106190123",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Kasun Rajitha replaces Maheesh Theekshana. Litton Das takes him on for consecutive sixes. First up, a short ball that's dispatched over deep backward square leg for six off a pull shot. Then,...",
+            "datemodified": "2023-11-06T18:54:02+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After six overs, BAN are 41/1",
+            "datepublished": "2023-11-06T18:54:02+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106185402",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Madushanka with a fine over from the other end. The left armer has been Sri Lanka's top wicket taker at this tournament but he's also put a lid on runs. Just like he did against India early...",
+            "datemodified": "2023-11-06T18:47:17+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After five overs, BAN are 28/1",
+            "datepublished": "2023-11-06T18:47:17+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106184717",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Theekshana continues from the other end. He offers width outside the off stump and Shanto is up for it. Rocks deep in his crease before cutting it through covers for four. Fine shot early in...",
+            "datemodified": "2023-11-06T18:42:36+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After four overs, BAN are 28/1",
+            "datepublished": "2023-11-06T18:42:36+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106184236",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "GONE! Dilshan Madushanka strikes early, again! What a star he has been for Sri Lanka, despite their fate at this World Cup. Almost the same off cutter that got the better of Rohit Sharma at...",
+            "datemodified": "2023-11-06T18:38:55+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After three overs, BAN are 23/1",
+            "datepublished": "2023-11-06T18:34:08+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106183408",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Maheesh Theekshana into the game very early. The dew has come into play already at Kotla and Sri Lanka would want to give Theekshana the best chance to get his grip in place. Off his first...",
+            "datemodified": "2023-11-06T18:30:32+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: After two overs, BAN are 17/0",
+            "datepublished": "2023-11-06T18:30:32+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106183032",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "It's not been the best of tournaments for the young Bangladesh opener but he's got off to a fine start here. Back to back boundaries off Madushanka's first over. An uppish drive through covers...",
+            "datemodified": "2023-11-06T18:25:44+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Tanzid gets going!",
+            "datepublished": "2023-11-06T18:25:44+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106182544",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Off we go then. Tanzid Hasan and Litton Das walk into the middle. Kusal Mendis orchestrates the Sri Lankan huddle. They'd feel hard done in that first innings. It's the Angelo Mathews timed...",
+            "datemodified": "2023-11-06T18:28:45+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Chase begins!",
+            "datepublished": "2023-11-06T18:23:35+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106182335",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "A quick end to the innings as Dilshan Madushanka misses his pull and goes for a run but is run out—excellent work from Rahim, who rolls it along the ground and hits the stump at his end....",
+            "datemodified": "2023-11-06T17:50:43+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Sri Lanka 279 all out in 49.3 overs",
+            "datepublished": "2023-11-06T17:50:43+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106175043",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Asalanka's brilliance comes to an end as he slashes it aerially and wide of deep point but mistimes and Litton Das in the deep takes it well. SL: 278/8 after 49 overs",
+            "datemodified": "2023-11-06T17:47:13+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score:100 and gone!",
+            "datepublished": "2023-11-06T17:47:13+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106174713",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "What a knock, Asalanka and it is second and this has come at a crucial time for him and SL. Superb effort. A knock under tremendous pressure. Asalanka has played a mature knock here. SL: 270/7...",
+            "datemodified": "2023-11-06T17:47:33+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: CENTURY FOR ASALANKA",
+            "datepublished": "2023-11-06T17:41:42+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106174142",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Maheesh Theekshana finds the fielder. Shoriful Islam sticks to the short ball, outside off and Theekshana tries to upper-cut and hits well but finds Nasum Ahmed (sub) who was standing right...",
+            "datemodified": "2023-11-06T17:42:01+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: OUT! TAKEN!",
+            "datepublished": "2023-11-06T17:37:44+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106173744",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "The 2023 ODI World Cup match between Sri Lanka and Bangladesh at the Arun Jaitley Stadium in Delhi saw a first in international cricket as all-rounder Angelo Matthews became the first-ever...",
+            "datemodified": "2023-11-06T17:33:30+05:30",
+            "headline": "After Angelo Matthews is deemed â€˜timed outâ€™ against Bangladesh, understanding the law...",
+            "datepublished": "2023-11-06T17:33:30+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106173330",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Charith Asalanka whacks away the poor delivery and it is a possible momentum changing over. A short one on the body from Tanzim, and it is pulled over the fine leg fence. Meanwhile, 250 is...",
+            "datemodified": "2023-11-06T17:36:31+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: SIXXXXX!",
+            "datepublished": "2023-11-06T17:26:18+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106172618",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "FOUR! It is a slower one but it is down the leg side and Maheesh Theekshana goes for the slog and it is wide of mid-wicket and into the fence. That will release a little bit of pressure. SL:...",
+            "datemodified": "2023-11-06T17:36:24+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Boundary after sometime",
+            "datepublished": "2023-11-06T17:18:23+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106171823",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Tanzim Hasan Sakib bowls four dot balls in a row to Maheesh Theekshana. Just the one to end and Maheesh Theekshana is back on strike! SL: 229/6 after 42 overs",
+            "datemodified": "2023-11-06T17:36:16+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Dot balls build pressure",
+            "datepublished": "2023-11-06T17:16:44+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106171644",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "A stumping appeal has been taken upstairs. Dhananjaya de Silva gave up already so that is clearly out. De Silva gets forward to punch this down the ground but leaves a gap for the ball to travel...",
+            "datemodified": "2023-11-06T17:36:09+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: OUT! STUMPED!",
+            "datepublished": "2023-11-06T17:04:03+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106170403",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Slightly short and De Silva's knows he can plunder this away, this is on middle and it is heaved over mid-wicket for a biggie. SL: 208/5 after 37 overs",
+            "datemodified": "2023-11-06T17:36:02+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: SIX! BANG!",
+            "datepublished": "2023-11-06T17:01:12+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106170112",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Tanzim Hasan Sakib is given a break as Taskin Ahmed comes into the attack. Dhananjaya de Silva greets him with a FOUR! Good placement as Taskin Ahmed goes shorter and around off amd De Silva...",
+            "datemodified": "2023-11-06T17:35:55+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Change in bowling",
+            "datepublished": "2023-11-06T16:47:21+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106164721",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Tanzim Hasan is being taken apart by Asalanka who hits the first, third and fifth ball of the over for fours. Asalanka is playing really well.14 runs off the over. Asalanka and de Silva deserve...",
+            "datemodified": "2023-11-06T17:35:48+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Three fours in the over",
+            "datepublished": "2023-11-06T16:38:51+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106163851",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Amidst all the drama in the background, Dhananjaya plays one nicely which was flatter and around off from Mehidy. Dhananjaya de Silva went back and guided it past the keeper. He played it nice...",
+            "datemodified": "2023-11-06T17:35:40+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: FOUR! Deft touch!",
+            "datepublished": "2023-11-06T16:18:19+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106161819",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "The strange dismissal came at a crucial junction of the match too. With wickets consistently falling, Sri Lanka could have used Mathews' experience to stitch a strong middle-overs partnership...",
+            "datemodified": "2023-11-06T17:35:33+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: A collapse on the cards",
+            "datepublished": "2023-11-06T16:14:39+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106161439",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "The next man is Angelo Mathews who has been timed out for failing to arrive at the crease in time. This is one of the strangest and rarest dismissals in cricket but it's a legal one. Wow! So...",
+            "datemodified": "2023-11-06T16:03:20+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: Gone! Angelo Mathews has been timed out",
+            "datepublished": "2023-11-06T16:02:12+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106160212",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "After conceding a four off the first ball, Shakib Al Hasan snares Sadeera Samarawickrama as he hits it straight to the fielder! Another Lankan batter gives it away! He got a boundary on the...",
+            "datemodified": "2023-11-06T17:35:23+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: OUT! TAKEN!Â",
+            "datepublished": "2023-11-06T15:57:19+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106155719",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Mehidy Hasan bowls to Sadeera Samarawickrama, who tries to flick but misses and gets hit on the pads. An appeal for LBW but nothing given. Bangladesh take the review. Ball Tracking shows it...",
+            "datemodified": "2023-11-06T17:35:15+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: BAN lose review",
+            "datepublished": "2023-11-06T15:35:59+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106153559",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          },
+          {
+            "articlebody": "Nicely played by Sadeera Samarawickrama as he goes inside-out over covers and then on the next ball, he gets inside the line and sweeps it behind square leg—four more. Sadeera Samarawickrama...",
+            "datemodified": "2023-11-06T17:35:05+05:30",
+            "headline": "Bangladesh vs Sri Lanka Live Score: 100 up for the Lankans.",
+            "datepublished": "2023-11-06T15:31:37+05:30",
+            "url": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/#tie-lb-20231106153137",
+            "mainentityofpage": "https://indianexpress.com/article/sports/cricket/bangladesh-vs-sri-lanka-live-score-icc-cricket-world-cup-2023-38th-match-today-at-arun-jaitley-stadium-delhi-9015394/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cricket set to be included in the 2028 Los Angeles Olympics: Report ...",
+      "htmlTitle": "<b>Cricket</b> set to be included in the 2028 Los Angeles Olympics: Report ...",
+      "link": "https://indianexpress.com/article/sports/cricket/cricket-set-to-be-included-in-the-2028-los-angeles-olympics-report-8975389/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Oct 9, 2023 ... Payne had cited the “current cricket boom” in the US, where some of ... Latest Comment. Post Comment. Read Comments. UPSC Pack. Latest Newsa0...",
+      "htmlSnippet": "Oct 9, 2023 <b>...</b> Payne had cited the “<b>current cricket</b> boom” in the US, where some of ... <b>Latest</b> Comment. Post Comment. Read Comments. UPSC Pack. <b>Latest News</b>&nbsp;...",
+      "cacheId": "AWum8NM8SEkJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/cricket-set-to-be-included-in-the-2028-l...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/<b>cricket</b>-set-to-be-included-in-the-2028-l...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyey39buPkkemMnalATrB40R1lRJyoZM7UjKuzzpm4yVNWaYU_8Z8Urqn2",
+            "width": "301",
+            "height": "167"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "url": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "height": "667"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2023/10/Cricket-IND.jpg",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-10-09T22:19:30+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "paywall",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/cricket-set-to-be-included-in-the-2028-los-angeles-olympics-report-8975389/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "667",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "As per the report, in LA in 2028, there will be a T20 men’s and women’s tournament just like they had in the recently concluded Asian Games.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2023/10/Cricket-IND.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1200",
+            "article:modified_time": "2023-10-09T22:26:30+05:30",
+            "news_keywords": "cricket in olympics, cricket included in olympics, cricket set to be included in olympics, cricket in olympics 2028, cricket in olympics los angeles, cricket olympic sport, sports news, indian express",
+            "og:type": "article",
+            "twitter:title": "Cricket set to be included in the 2028 Los Angeles Olympics: Report",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "Cricket set to be included in the 2028 Los Angeles Olympics: Report",
+            "og:image:height": "667",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "As per the report, in LA in 2028, there will be a T20 men’s and women’s tournament just like they had in the recently concluded Asian Games.",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/cricket-set-to-be-included-in-the-2028-los-angeles-olympics-report-8975389/"
+          }
+        ],
+        "cse_image": [
+          { "src": "https://images.indianexpress.com/2023/10/Cricket-IND.jpg" }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ICC suspends Sri Lanka Cricket's membership with immediate effect ...",
+      "htmlTitle": "<b>ICC</b> suspends Sri Lanka <b>Cricket&#39;s</b> membership with immediate effect ...",
+      "link": "https://indianexpress.com/article/sports/cricket/icc-suspends-sri-lanka-crickets-membership-with-immediate-effect-due-to-government-interference-9022135/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Nov 10, 2023 ... In a short press release the ICC said: “The ICC Board met today and ... Sri Lanka Cricket Team · Omidyar_Home_Events. Latesta0...",
+      "htmlSnippet": "Nov 10, 2023 <b>...</b> In a short press release the <b>ICC</b> said: “The <b>ICC</b> Board met <b>today</b> and ... Sri Lanka <b>Cricket</b> Team &middot; Omidyar_Home_Events. <b>Latest</b>&nbsp;...",
+      "cacheId": "Vcn88SJr4AcJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/icc-suspends-sri-lanka-crickets-member...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/icc-suspends-sri-lanka-<b>cricket</b>s-member...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLJX4zDn4GPgGEBWY2xqItBIQiScI5rD7PWr5TYeBT9YUf1qY39a4J7OA",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "url": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "height": "667"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2023/11/SRI-LANKAN-FANS-PTI-CROP.png",
+            "og:image:width": "1600",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-11-10T21:02:30+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "normal",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/icc-suspends-sri-lanka-crickets-membership-with-immediate-effect-due-to-government-interference-9022135/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "900",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "In a short press release announcing the decision, the ICC said that the conditions of the suspension will be decided by the ICC Board in due course.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2023/11/SRI-LANKAN-FANS-PTI-CROP.png",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1600",
+            "article:modified_time": "2023-11-11T07:06:20+05:30",
+            "news_keywords": "sri lanka cricket, sri lanka cricket board, sri lanka cricket team, sri lanka cricket suspended, sri lanka cricket board suspended, SLC suspended, sri lankan cricket team, ODI World Cup 2023, ODI World Cup, ICC Cricket World Cup, Cricket World Cup, 2023 World Cup,",
+            "og:type": "article",
+            "twitter:title": "ICC suspends Sri Lanka Cricket’s membership with immediate effect due to ‘government interference’",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "ICC suspends Sri Lanka Cricket’s membership with immediate effect due to ‘government interference’",
+            "og:image:height": "900",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "In a short press release announcing the decision, the ICC said that the conditions of the suspension will be decided by the ICC Board in due course.",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/icc-suspends-sri-lanka-crickets-membership-with-immediate-effect-due-to-government-interference-9022135/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images.indianexpress.com/2023/11/SRI-LANKAN-FANS-PTI-CROP.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'World Cup final result means that cricket won': Ex-Pakistan cricketer ...",
+      "htmlTitle": "&#39;World Cup final result means that <b>cricket</b> won&#39;: Ex-Pakistan <b>cricketer</b> ...",
+      "link": "https://indianexpress.com/article/sports/cricket/world-cup-final-result-means-that-cricket-won-ex-pakistan-cricketer-abdul-razzaq-in-indias-defeat-to-australia-9038896/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Nov 23, 2023 ... ... News · Take Our Reader Survey · 🎙️ Podcast · Premium Stories · Health ... (If I am being honest, the sport of cricket won today. The hosta0...",
+      "htmlSnippet": "Nov 23, 2023 <b>...</b> ... <b>News</b> &middot; Take Our Reader Survey &middot; 🎙️ Podcast &middot; Premium Stories &middot; Health ... (If I am being honest, the sport of <b>cricket</b> won <b>today</b>. The host&nbsp;...",
+      "cacheId": "fT_yPbD19MgJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/world-cup-final-result-means-that-crick...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/world-cup-final-result-means-that-<b>crick</b>...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXQJSIfCUNbgZJqk5-MnPz42hqmN6-HwA9f4RDmln8TucysDQtSQwVR-E",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "url": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "height": "667"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2023/11/Abdul-Razzaq-screengrab-crop.png",
+            "og:image:width": "1600",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-11-23T12:13:37+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "normal",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/world-cup-final-result-means-that-cricket-won-ex-pakistan-cricketer-abdul-razzaq-in-indias-defeat-to-australia-9038896/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "900",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "The ex-Pakistan all-rounder added that if Virat Kohli, who was dismissed on 54 in the final, had scored another century, India would have won the match and their third World Cup trophy.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2023/11/Abdul-Razzaq-screengrab-crop.png",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1600",
+            "article:modified_time": "2023-11-23T12:13:42+05:30",
+            "news_keywords": "Abdul Razzaq, World Cup final, Pakistan cricket, virat kohli, team india, indian cricket team, indian cricket, world cup final, ODI World Cup 2023, ODI World Cup, ICC Cricket World Cup, Cricket World Cup, 2023 World Cup, australia cricket team,  australian cricket team, india vs australia, australia vs India, IND vs AUS, AUS vs IND,",
+            "og:type": "article",
+            "twitter:title": "‘World Cup final result means that cricket won’: Ex-Pakistan cricketer Abdul Razzaq in India’s defeat to Australia",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "‘World Cup final result means that cricket won’: Ex-Pakistan cricketer Abdul Razzaq in India’s defeat to Australia",
+            "og:image:height": "900",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "The ex-Pakistan all-rounder added that if Virat Kohli, who was dismissed on 54 in the final, had scored another century, India would have won the match and their third World Cup trophy.",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/world-cup-final-result-means-that-cricket-won-ex-pakistan-cricketer-abdul-razzaq-in-indias-defeat-to-australia-9038896/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images.indianexpress.com/2023/11/Abdul-Razzaq-screengrab-crop.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The hurting Indian team needs its 3 a.m. captain Rohit Sharma, and ...",
+      "htmlTitle": "The hurting Indian team needs its 3 a.m. captain Rohit Sharma, and ...",
+      "link": "https://indianexpress.com/article/sports/cricket/the-hurting-indian-team-needs-its-3-a-m-captain-rohit-sharma-and-coach-rahul-dravid-to-continue-9041366/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Nov 25, 2023 ... ... News · Political Pulse · Latest Opinion · Mumbai News · Delhi News · Pune News · Bangalore News · Bollywood News · Health News · India Newsa0...",
+      "htmlSnippet": "Nov 25, 2023 <b>...</b> ... <b>News</b> &middot; Political Pulse &middot; <b>Latest</b> Opinion &middot; Mumbai <b>News</b> &middot; Delhi <b>News</b> &middot; Pune <b>News</b> &middot; Bangalore <b>News</b> &middot; Bollywood <b>News</b> &middot; Health <b>News</b> &middot; India <b>News</b>&nbsp;...",
+      "cacheId": "ZNfIHAMqnkgJ",
+      "formattedUrl": "https://indianexpress.com/.../cricket/the-hurting-indian-team-needs-its-3-a-...",
+      "htmlFormattedUrl": "https://indianexpress.com/.../<b>cricket</b>/the-hurting-indian-team-needs-its-3-a-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSksTTwBCtC9r1C1sqjs7bumvw88j-N4D5lZ-AtTEbgUN7ioXtE6DEoHso",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1200",
+            "url": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "height": "667"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.indianexpress.com/2023/11/Dravid-and-Rohit.jpg",
+            "og:image:width": "1600",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-11-25T08:30:06+05:30",
+            "og:site_name": "The Indian Express",
+            "taboola:story_type": "paywall",
+            "twitter:url": "https://indianexpress.com/article/sports/cricket/the-hurting-indian-team-needs-its-3-a-m-captain-rohit-sharma-and-coach-rahul-dravid-to-continue-9041366/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "900",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "It helps to be a leader with first-hand experience of dealing with epic struggles and just one loss, after 10 wins, cannot undermine the leadership and culture of an inspired team",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://images.indianexpress.com/2023/11/Dravid-and-Rohit.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1600",
+            "article:modified_time": "2023-11-30T07:50:45+05:30",
+            "news_keywords": "Rohit Sharma, Rahul Dravid, Rohit Sharma 3 AM, Rahul Dravid 3AM, Cricket World Cup 2023, ODI World Cup  2023, The Indian Express, Sports News, India vs Australia, IND vs AUS, India vs Australia World Cup final, IND vs AUS World Cup final",
+            "og:type": "article",
+            "twitter:title": "The hurting Indian team needs its 3 a.m. captain Rohit Sharma, and coach Rahul Dravid to continue",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "The hurting Indian team needs its 3 a.m. captain Rohit Sharma, and coach Rahul Dravid to continue",
+            "og:image:height": "900",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "It helps to be a leader with first-hand experience of dealing with epic struggles and just one loss, after 10 wins, cannot undermine the leadership and culture of an inspired team",
+            "og:locale": "en_US",
+            "atdlayout": "articlepage",
+            "og:url": "https://indianexpress.com/article/sports/cricket/the-hurting-indian-team-needs-its-3-a-m-captain-rohit-sharma-and-coach-rahul-dravid-to-continue-9041366/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images.indianexpress.com/2023/11/Dravid-and-Rohit.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

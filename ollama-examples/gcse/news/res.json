@@ -1,0 +1,685 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https: //www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - cricket news today site:indianexpress.com OR  site:thehindu.com OR  site:timesofindia.indiatimes.com OR site:hindustantimes.com OR site:ndtv.com",
+        "totalResults": "58100000",
+        "searchTerms": "cricket news today site:indianexpress.com OR  site:thehindu.com OR  site:timesofindia.indiatimes.com OR site:hindustantimes.com OR site:ndtv.com",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "8238a86e200a44222"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - cricket news today site:indianexpress.com OR  site:thehindu.com OR  site:timesofindia.indiatimes.com OR site:hindustantimes.com OR site:ndtv.com",
+        "totalResults": "58100000",
+        "searchTerms": "cricket news today site:indianexpress.com OR  site:thehindu.com OR  site:timesofindia.indiatimes.com OR site:hindustantimes.com OR site:ndtv.com",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "8238a86e200a44222"
+      }
+    ]
+  },
+  "context": { "title": "search" },
+  "searchInformation": {
+    "searchTime": 0.630767,
+    "formattedSearchTime": "0.63",
+    "totalResults": "58100000",
+    "formattedTotalResults": "58,100,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Latest Cricket News Today, Live Cricket score, match coverage, icc ...",
+      "htmlTitle": "<b>Latest Cricket News Today</b>, <b>Live Cricket score</b>, match coverage, icc ...",
+      "link": "https://www.hindustantimes.com/cricket",
+      "displayLink": "www.hindustantimes.com",
+      "snippet": "Top Cricket News · Ishan Kishan continues to defy Rahul Dravid, won't play Ranji Trophy; trains with Hardik and Krunal Pandya: Report · Alyssa Healy leavesa0...",
+      "htmlSnippet": "Top <b>Cricket News</b> &middot; Ishan Kishan continues to defy Rahul Dravid, won&#39;t play Ranji Trophy; trains with Hardik and Krunal Pandya: Report &middot; Alyssa Healy leaves&nbsp;...",
+      "cacheId": "Kg5q5ux7JnIJ",
+      "formattedUrl": "https://www.hindustantimes.com/cricket",
+      "htmlFormattedUrl": "https://www.hindustantimes.com/<b>cricket</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmY6xgnh0XOXdjhzO0zxkN6tEO1MPtBq9M66po5jr-sEmcKUVfwWX65bDL",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.hindustantimes.com/res/images/logo.png",
+            "theme-color": "#ffffff",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Hindustan Times",
+            "twitter:url": "https://www.hindustantimes.com",
+            "og:description": "Get all the Latest Cricket News, Live Cricket Score, Match Coverage, Match Analysis, Match Highlights, ICC Cricket Team, Cricket Tournaments and more on Hindustan Times.",
+            "twitter:creator": "@httweets",
+            "twitter:image": "https://www.hindustantimes.com/res/images/logo.png",
+            "next-head-count": "38",
+            "twitter:image:alt": "HT Logo",
+            "twitter:site": "@httweets",
+            "fb:admins": "100006810078735",
+            "og:type": "website",
+            "og:image:alt": "HT Logo",
+            "twitter:title": "Latest Cricket News Today, Live Cricket score, match coverage, icc cricket news",
+            "og:title": "Latest Cricket News Today, Live Cricket score, match coverage, icc cricket news",
+            "og:image:height": "900",
+            "fb:pages": "111445058579",
+            "referrer": "no-referrer-when-downgrade",
+            "fb:app_id": "387606842082586",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes",
+            "twitter:description": "Get all the Latest Cricket News, Live Cricket Score, Match Coverage, Match Analysis, Match Highlights, ICC Cricket Team, Cricket Tournaments and more on Hindustan Times.",
+            "og:locale": "en_us",
+            "og:url": "/cricket"
+          }
+        ],
+        "cse_image": [
+          { "src": "https://www.hindustantimes.com/res/images/logo.png" }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cricket News - Latest and Breaking News on Cricket, Expert ...",
+      "htmlTitle": "<b>Cricket News</b> - <b>Latest</b> and Breaking News on Cricket, Expert ...",
+      "link": "https://sports.ndtv.com/cricket/news",
+      "displayLink": "sports.ndtv.com",
+      "snippet": "Cricket News · \"Go Back And Score Runs In Domestic Cricket\": Shreyas Iyer Issued Blunt Message · Brendon McCullums Blunt Response When Asked About Strategy Toa0...",
+      "htmlSnippet": "<b>Cricket News</b> &middot; &quot;Go Back And Score Runs In Domestic Cricket&quot;: Shreyas Iyer Issued Blunt Message &middot; Brendon McCullums Blunt Response When Asked About Strategy To&nbsp;...",
+      "cacheId": "IMYWUUoYfPMJ",
+      "formattedUrl": "https://sports.ndtv.com/cricket/news",
+      "htmlFormattedUrl": "https://sports.ndtv.com/<b>cricket</b>/<b>news</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvZYiE4xI9NhnDd-MX0S_2zYymSn1J-akvqM4fDnXHp8jJiSmWwJqWmy0",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://drop.ndtv.com/homepage/ndtv_sports/images/ndtv_sports1200x630.png",
+            "twitter:app:id:googleplay": "com.july.ndtv",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "NDTVSports.com",
+            "twitter:url": "https://sports.ndtv.com/cricket/news",
+            "twitter:app:name:googleplay": "NDTV",
+            "language": "en",
+            "twitter:app:id:iphone": "377869410",
+            "msapplication-tileimage": "https://cdn.ndtv.com/sports_ndtvin/images/Apple_icons/ms-icon-144x144.png",
+            "og:description": "Cricket News: Latest Updates, Information, Schedule, News on Cricket. Get Ball by ball updates on Cricket match, Upcoming Cricket Series and Schedules at NDTV Sports",
+            "twitter:image": "https://sports.ndtv.com/nstatic/content/images/tw_image_meta.png?im=FitAndFill=(800,400)",
+            "snapchat:sticker": "https://sports.ndtv.com/images/512.png",
+            "taboola-category": "sports",
+            "msapplication-tap-highlight": "no",
+            "twitter:site": "Sports_NDTV",
+            "fb:admins": "661176363,563021615",
+            "twitter:widgets:theme": "light",
+            "og:type": "article",
+            "twitter:title": "Cricket News - Latest and Breaking News on Cricket, Expert Reviews - NDTV Sports",
+            "og:title": "Cricket News - Latest and Breaking News on Cricket, Expert Reviews - NDTV Sports",
+            "og:image:height": "630",
+            "twitter:app:id:ipad": "390847563",
+            "fb:app_id": "119694158111361",
+            "apple-mobile-web-app-status-bar-style": "black-translucent",
+            "twitter:app:name:ipad": "NDTV HD",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Cricket News: Latest Updates, Information, Schedule, News on Cricket. Get Ball by ball updates on Cricket match, Upcoming Cricket Series and Schedules at NDTV Sports",
+            "category": "Sports",
+            "og:url": "https://sports.ndtv.com/cricket/news",
+            "twitter:app:name:iphone": "NDTV"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://drop.ndtv.com/homepage/ndtv_sports/images/ndtv_sports1200x630.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cricket News: Get Latest Cricket Updates, Live Cricket Score ...",
+      "htmlTitle": "<b>Cricket News</b>: Get <b>Latest Cricket Updates</b>, <b>Live Cricket Score</b> ...",
+      "link": "https://indianexpress.com/section/sports/cricket/",
+      "displayLink": "indianexpress.com",
+      "snippet": "Cricket News: Get Latest Cricket Updates, Live Score, Match Results, Analysis, Schedule of Upcoming Cricket Matches at The Indian Express. Catch the Latesta0...",
+      "htmlSnippet": "<b>Cricket News</b>: Get <b>Latest Cricket Updates</b>, <b>Live</b> Score, Match Results, Analysis, <b>Schedule</b> of Upcoming Cricket Matches at The Indian Express. Catch the <b>Latest</b>&nbsp;...",
+      "cacheId": "NooKjFAqcBwJ",
+      "formattedUrl": "https://indianexpress.com/section/sports/cricket/",
+      "htmlFormattedUrl": "https://indianexpress.com/section/sports/<b>cricket</b>/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2WDDoXJkL_cLR_5BXyNsamKbd6wTmXpOxeGurEDeF84HFzGsyLjHzlms",
+            "width": "150",
+            "height": "83"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "The Indian Express",
+            "twitter:url": "https://indianexpress.com/section/sports/cricket/",
+            "twitter:image:type": "image/jpeg",
+            "twitter:image:height": "667",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://images.indianexpress.com/2018/10/fav-icon.png",
+            "og:description": "Cricket News: Get Latest Cricket Updates, Live Score, Match Results, Analysis, Schedule of Upcoming Cricket Matches at The Indian Express. Catch the Latest News of all International and Domestic Cricket Matches along with the Players Info, Stats, Records, Images, Videos and more.",
+            "twitter:creator": "@indianexpress",
+            "twitter:image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+            "ahrefs-site-verification": "00120a3a212c33eda15559fea6d0731769fd82f538180bd0a2dbe12991312ab4",
+            "twitter:site": "The Indian Express",
+            "twitter:image:width": "1200",
+            "og:type": "website",
+            "twitter:title": "Cricket News: Get Latest Cricket Updates, Live Cricket Score, Upcoming Cricket Matches and Schedules",
+            "msvalidate.01": "CCA9DA5B985004F4462DA743E776C636",
+            "og:title": "Cricket News: Get Latest Cricket Updates, Live Cricket Score, Upcoming Cricket Matches and Schedules",
+            "og:image:height": "667",
+            "majestic-site-verification": "MJ12_ad7db024-a46c-482a-bb2f-e1ae09432a65",
+            "fb:pages": "163648403825",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "Cricket News: Get Latest Cricket Updates, Live Score, Match Results, Analysis, Schedule of Upcoming Cricket Matches at The Indian Express. Catch the Latest News of all International and Domestic Cricket Matches along with the Players Info, Stats, Records, Images, Videos and more.",
+            "og:locale": "en_US",
+            "atdlayout": "sectionpage",
+            "og:url": "https://indianexpress.com/section/sports/cricket/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cricket News: Latest Cricket News, Live Scores, Results, Upcoming ...",
+      "htmlTitle": "<b>Cricket News</b>: <b>Latest Cricket News</b>, <b>Live</b> Scores, Results, Upcoming ...",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket",
+      "displayLink": "timesofindia.indiatimes.com",
+      "snippet": "Cricket · 'Bumrah Shandaar...': ABD's message for newly-crowned no.1 Test bowler · 'Forget Bazball': Vaughan slams Root's aggressive approach vs India · Virata0...",
+      "htmlSnippet": "<b>Cricket</b> &middot; &#39;Bumrah Shandaar...&#39;: ABD&#39;s message for newly-crowned no.1 Test bowler &middot; &#39;Forget Bazball&#39;: Vaughan slams Root&#39;s aggressive approach vs India &middot; Virat&nbsp;...",
+      "cacheId": "-YvnZw4O8KoJ",
+      "formattedUrl": "https://timesofindia.indiatimes.com/sports/cricket",
+      "htmlFormattedUrl": "https://timesofindia.indiatimes.com/sports/<b>cricket</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4HZ3yqkywPbs9hu1v5nCTPlvAhp6ldnupG4OusxrdMT6tKtCwHVhaqU",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "600",
+            "url": "https://static.toiimg.com/photo/msid-58127550/toilogo.jpg",
+            "height": "60"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.toiimg.com/photo/47529300.cms",
+            "twitter:title": "Cricket News: Latest Cricket News, Live Scores, Results, Upcoming match Schedules | Times of India",
+            "og:image:width": "1070",
+            "theme-color": "#af2c2c",
+            "og:type": "website",
+            "og:site_name": "The Times of India",
+            "handheldfriendly": "true",
+            "twitter:url": "https://timesofindia.indiatimes.com/sports/cricket",
+            "og:title": "Cricket News: Latest Cricket News, Live Scores, Results, Upcoming match Schedules | Times of India",
+            "og:image:height": "580",
+            "og:description": "Cricket News Live: Check live cricket scores, schedule, results, scorecard, upcoming matches list and ball by ball commentary along with player stats, player profiles, team profiles and live cricket commentary on Times of India Cricket.",
+            "fb:pages": "26781952138",
+            "twitter:image": "https://static.toiimg.com/photo/47529300.cms",
+            "fb:app_id": "117787264903013",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "news_keywords": "Cricket, Cricket news, Cricket news today, India national cricket team, Sports news, Cricket live, Live Cricket Score",
+            "twitter:description": "Cricket News Live: Check live cricket scores, schedule, results, scorecard, upcoming matches list and ball by ball commentary along with player stats, player profiles, team profiles and live cricket commentary on Times of India Cricket.",
+            "apple-mobile-web-app-capable": "yes",
+            "mobileoptimized": "width",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://timesofindia.indiatimes.com/sports/cricket"
+          }
+        ],
+        "cse_image": [
+          { "src": "https://static.toiimg.com/photo/47529300.cms" }
+        ],
+        "sitenavigationelement": [
+          {
+            "name": "cricket",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket"
+          }
+        ],
+        "listitem": [
+          { "item": "NEWS", "name": "NEWS", "position": "1" },
+          { "item": "SPORTS NEWS", "name": "SPORTS NEWS", "position": "2" }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Live Scores, Latest Sports News, Results, Cricket Updates - The Hindu",
+      "htmlTitle": "<b>Live</b> Scores, <b>Latest</b> Sports News, Results, <b>Cricket Updates</b> - The Hindu",
+      "link": "https://www.thehindu.com/sport/",
+      "displayLink": "www.thehindu.com",
+      "snippet": "Stay Up To Date With The Latest Sports News & Updates From The World Of Cricket, Football, Tennis, Badminton & Much More At The Hindu.",
+      "htmlSnippet": "Stay Up To Date With The <b>Latest</b> Sports <b>News</b> &amp; <b>Updates</b> From The World Of <b>Cricket</b>, Football, Tennis, Badminton &amp; Much More At The Hindu.",
+      "cacheId": "3Uu4dGJc_x8J",
+      "formattedUrl": "https://www.thehindu.com/sport/",
+      "htmlFormattedUrl": "https://www.thehindu.com/sport/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3qAzIUBA9AFqA6434Mm5NRgisLPhcaduDVmORdZXuLmQTnmEDvgLnkbw",
+            "width": "295",
+            "height": "171"
+          }
+        ],
+        "newsmediaorganization": [
+          {
+            "name": "The Hindu",
+            "logo": "https://www.thehindu.com/theme/images/th-online/thfooterlogo.png",
+            "url": "https://www.thehindu.com/",
+            "sameas": "https://www.facebook.com/thehindu"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "278",
+            "url": "https://www.thehindu.com/theme/images/th-online/thfooterlogo.png",
+            "height": "49"
+          }
+        ],
+        "organization": [
+          {
+            "name": "The Hindu",
+            "logo": "https://www.thehindu.com/theme/images/th-online/thfooterlogo.png",
+            "url": "https://www.thehindu.com/",
+            "sameas": "https://www.facebook.com/thehindu"
+          }
+        ],
+        "postaladdress": [
+          {
+            "addresslocality": "Chennai",
+            "postalcode": "600002",
+            "addressregion": "Tamil Nadu",
+            "streetaddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+            "telephone": "+91-44-2857 6300"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.thehindu.com/theme/images/th-online/OG-sections.png",
+            "twitter:app:id:googleplay": "com.mobstac.thehindu",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "The Hindu",
+            "twitter:apple-itunes-app": "app-id=584786636",
+            "al:android:package": "com.mobstac.thehindu",
+            "og:image:type": "image/jpeg",
+            "twitter:app:name:googleplay": "The Hindu (Official App)",
+            "title": "Live Scores, Latest Sports News, Results, Cricket Updates",
+            "twitter:app:id:iphone": "771672321",
+            "og:description": "Stay Up To Date With The Latest Sports News &amp; Updates From The World Of Cricket, Football, Tennis, Badminton &amp; Much More At The Hindu",
+            "twitter:image": "https://www.thehindu.com/theme/images/th-online/OG-sections.png",
+            "ahrefs-site-verification": "6df5b97abf2ea60f2d4123265496b92b4faa009ceff5444e0b8482ebddd508d6",
+            "twitter:site": "@The_Hindu",
+            "twitter:google-play-app": "app-id=com.mobstac.thehindu",
+            "twitter:title": "Live Scores, Latest Sports News, Results, Cricket Updates",
+            "og:type": "website",
+            "twitter:domain": "thehindu.com",
+            "og:title": "Live Scores, Latest Sports News, Results, Cricket Updates",
+            "msvalidate:01": "00762243DAFA333A5A6D97CE4545BDB2",
+            "yandex-verification": "ff4648e5089d361d",
+            "fb:pages": "163974433696568",
+            "al:android:url": "https://www.thehindu.com/sport/",
+            "fb:app_id": "137450626398044",
+            "twitter:app:name:ipad": "The Hindu",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "Stay Up To Date With The Latest Sports News &amp; Updates From The World Of Cricket, Football, Tennis, Badminton &amp; Much More At The Hindu",
+            "atdlayout": "sectionpage",
+            "og:url": "https://www.thehindu.com/sport/",
+            "google-signin-client_id": "853251516072-1eudfpp9hhjtjp31fpm8g9fus3ig0ec3.apps.googleusercontent.com",
+            "twitter:app:name:iphone": "The Hindu for iPhone",
+            "al:android:app_name": "The Hindu"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "News: Today's News Headlines, Breaking News India, World News ...",
+      "htmlTitle": "<b>News</b>: <b>Today&#39;s News Headlines</b>, <b>Breaking News</b> India, World <b>News</b> ...",
+      "link": "https://www.hindustantimes.com/",
+      "displayLink": "www.hindustantimes.com",
+      "snippet": "News Headlines Today: Hindustan Times offers the most reliable news in politics, sports, entertainment and business, featuring National and Internationala0...",
+      "htmlSnippet": "<b>News Headlines Today</b>: Hindustan Times offers the most reliable <b>news</b> in politics, sports, entertainment and business, featuring National and International&nbsp;...",
+      "cacheId": "jzcck_SOm54J",
+      "formattedUrl": "https://www.hindustantimes.com/",
+      "htmlFormattedUrl": "https://www.hindustantimes.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmY6xgnh0XOXdjhzO0zxkN6tEO1MPtBq9M66po5jr-sEmcKUVfwWX65bDL",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.hindustantimes.com/res/images/logo.png",
+            "theme-color": "#ffffff",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Hindustan Times",
+            "twitter:url": "https://www.hindustantimes.com",
+            "og:description": "News Headlines Today: Hindustan Times offers the most reliable news in politics, sports, entertainment and business, featuring National and International news Breaking News on Hindustan Times",
+            "twitter:creator": "@httweets",
+            "twitter:image": "https://www.hindustantimes.com/res/images/logo.png",
+            "twitter:image:alt": "HT Logo",
+            "twitter:site": "@httweets",
+            "news_keywords": "Today News Headlines,Hindustan Times,English News Headlines,Latest English News,Top Stories,Today Top Story,English News,Today's News,News Headlines",
+            "fb:admins": "100006810078735",
+            "og:type": "website",
+            "og:image:alt": "HT Logo",
+            "twitter:title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+            "og:title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+            "og:image:height": "900",
+            "fb:pages": "111445058579",
+            "referrer": "no-referrer-when-downgrade",
+            "fb:app_id": "387606842082586",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes",
+            "twitter:description": "News Headlines Today: Hindustan Times offers the most reliable news in politics, sports, entertainment and business, featuring National and International news Breaking News on Hindustan Times",
+            "og:locale": "en_us",
+            "og:url": "https://www.hindustantimes.com"
+          }
+        ],
+        "cse_image": [
+          { "src": "https://www.hindustantimes.com/res/images/logo.png" }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Live Cricket Scores, Highlights, Cricket News, Results, Stats, Cricket ...",
+      "htmlTitle": "<b>Live Cricket Scores</b>, Highlights, <b>Cricket News</b>, Results, Stats, Cricket ...",
+      "link": "https://sports.ndtv.com/cricket",
+      "displayLink": "sports.ndtv.com",
+      "snippet": "Read all the latest information related to Cricket, live scores,Cricket news, results, stats, videos, highlights. Find all the Cricket matches schedules ata0...",
+      "htmlSnippet": "Read all the <b>latest</b> information related to Cricket, <b>live</b> scores,<b>Cricket news</b>, results, stats, videos, highlights. Find all the Cricket matches schedules at&nbsp;...",
+      "cacheId": "eVzeVU5C9ngJ",
+      "formattedUrl": "https://sports.ndtv.com/cricket",
+      "htmlFormattedUrl": "https://sports.ndtv.com/<b>cricket</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvZYiE4xI9NhnDd-MX0S_2zYymSn1J-akvqM4fDnXHp8jJiSmWwJqWmy0",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://drop.ndtv.com/homepage/ndtv_sports/images/ndtv_sports1200x630.png",
+            "twitter:app:id:googleplay": "com.july.ndtv",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "NDTVSports.com",
+            "twitter:url": "https://sports.ndtv.com/cricket",
+            "twitter:app:name:googleplay": "NDTV",
+            "language": "en",
+            "twitter:app:id:iphone": "377869410",
+            "msapplication-tileimage": "https://cdn.ndtv.com/sports_ndtvin/images/Apple_icons/ms-icon-144x144.png",
+            "og:description": "Read all the latest information related to Cricket, live scores,Cricket news, results, stats, videos, highlights. Find all the Cricket matches schedules at NDTV Sports",
+            "twitter:image": "https://sports.ndtv.com/nstatic/content/images/tw_image_meta.png?im=FitAndFill=(800,400)",
+            "snapchat:sticker": "https://sports.ndtv.com/images/512.png",
+            "taboola-category": "sports",
+            "msapplication-tap-highlight": "no",
+            "twitter:site": "Sports_NDTV",
+            "fb:admins": "661176363,563021615",
+            "twitter:widgets:theme": "light",
+            "og:type": "article",
+            "twitter:title": "Live Cricket Scores, Highlights, Cricket News, Results, Stats, Cricket Videos and More – NDTV Sports",
+            "og:title": "Live Cricket Scores, Highlights, Cricket News, Results, Stats, Cricket Videos and More – NDTV Sports",
+            "og:image:height": "630",
+            "twitter:app:id:ipad": "390847563",
+            "fb:app_id": "119694158111361",
+            "apple-mobile-web-app-status-bar-style": "black-translucent",
+            "twitter:app:name:ipad": "NDTV HD",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Read all the latest information related to Cricket, live scores,Cricket news, results, stats, videos, highlights. Find all the Cricket matches schedules at NDTV Sports",
+            "category": "Sports",
+            "og:url": "https://sports.ndtv.com/cricket",
+            "twitter:app:name:iphone": "NDTV"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://drop.ndtv.com/homepage/ndtv_sports/images/ndtv_sports1200x630.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sports News: Latest Cricket News, Live Match Scores & Sports ...",
+      "htmlTitle": "Sports News: <b>Latest Cricket News</b>, <b>Live</b> Match Scores &amp; Sports ...",
+      "link": "https://timesofindia.indiatimes.com/sports",
+      "displayLink": "timesofindia.indiatimes.com",
+      "snippet": "The Times of India Sports gives you latest sports news, cricket score, live cricket score, wwe results and milestones; covers all sporting events,a0...",
+      "htmlSnippet": "The Times of India Sports gives you <b>latest</b> sports news, <b>cricket score</b>, <b>live cricket score</b>, wwe results and milestones; covers all sporting events,&nbsp;...",
+      "cacheId": "pArorzaa6lYJ",
+      "formattedUrl": "https://timesofindia.indiatimes.com/sports",
+      "htmlFormattedUrl": "https://timesofindia.indiatimes.com/sports",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4HZ3yqkywPbs9hu1v5nCTPlvAhp6ldnupG4OusxrdMT6tKtCwHVhaqU",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "600",
+            "url": "https://static.toiimg.com/photo/msid-58127550/toilogo.jpg",
+            "height": "60"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.toiimg.com/photo/47529300.cms",
+            "twitter:title": "Sports News: Latest Cricket News, Live Match Scores & Sports News Headlines, Results & more",
+            "og:image:width": "1070",
+            "theme-color": "#af2c2c",
+            "og:type": "website",
+            "og:site_name": "The Times of India",
+            "handheldfriendly": "true",
+            "twitter:url": "https://timesofindia.indiatimes.com/sports",
+            "og:title": "Sports News: Latest Cricket News, Live Match Scores & Sports News Headlines, Results & more",
+            "og:image:height": "580",
+            "og:description": "The Times of India Sports gives you latest sports news, cricket score, live cricket score, wwe results and milestones; covers all sporting events, provides key statistics and more",
+            "fb:pages": "26781952138",
+            "twitter:image": "https://static.toiimg.com/photo/47529300.cms",
+            "fb:app_id": "117787264903013",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "The Times of India Sports gives you latest sports news, cricket score, live cricket score, wwe results and milestones; covers all sporting events, provides key statistics and more",
+            "apple-mobile-web-app-capable": "yes",
+            "mobileoptimized": "width",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://timesofindia.indiatimes.com/sports"
+          }
+        ],
+        "cse_image": [
+          { "src": "https://static.toiimg.com/photo/47529300.cms" }
+        ],
+        "listitem": [
+          { "item": "NEWS", "name": "NEWS", "position": "1" },
+          { "item": "SPORTS NEWS", "name": "SPORTS NEWS", "position": "2" }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Track Live Cricket Score | Hindustan Times",
+      "htmlTitle": "Track <b>Live Cricket Score</b> | Hindustan Times",
+      "link": "https://www.hindustantimes.com/cricket/live-score",
+      "displayLink": "www.hindustantimes.com",
+      "snippet": "Live Cricket Score: Check Live cricket score of all International, Cricket World Cup 2023, Domestic, T20s, ODIs, Tests matches along with upcoming anda0...",
+      "htmlSnippet": "<b>Live Cricket Score</b>: Check <b>Live cricket score</b> of all International, Cricket World Cup 2023, Domestic, T20s, ODIs, Tests matches along with upcoming and&nbsp;...",
+      "cacheId": "65VLvHnjDIMJ",
+      "formattedUrl": "https://www.hindustantimes.com/cricket/live-score",
+      "htmlFormattedUrl": "https://www.hindustantimes.com/<b>cricket</b>/live-score",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmY6xgnh0XOXdjhzO0zxkN6tEO1MPtBq9M66po5jr-sEmcKUVfwWX65bDL",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.hindustantimes.com/res/images/logo.png",
+            "theme-color": "#ffffff",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Hindustan Times",
+            "twitter:url": "https://www.hindustantimes.com",
+            "og:description": "Live Cricket Score: Check Live cricket score of all International, Cricket World Cup 2023, Domestic, T20s, ODIs, Tests matches along with upcoming and todays cricket match at Hindustan Times Live Cricket Score Today",
+            "twitter:creator": "@httweets",
+            "twitter:image": "https://www.hindustantimes.com/res/images/logo.png",
+            "twitter:image:alt": "HT Logo",
+            "twitter:site": "@httweets",
+            "news_keywords": "live t20 score,Live Cricket Score,upcoming matches Live scorecard,today's match live score,world cup live score,live cricket,cricket score board,cricket score,live ODI score,match live score",
+            "fb:admins": "100006810078735",
+            "og:type": "website",
+            "og:image:alt": "HT Logo",
+            "twitter:title": "Live Cricket Score: Check Today’s Live Cricket Score on Hindustan Times | Track Live Cricket Score | Hindustan Times",
+            "og:title": "Live Cricket Score: Check Today’s Live Cricket Score on Hindustan Times | Track Live Cricket Score | Hindustan Times",
+            "og:image:height": "900",
+            "fb:pages": "111445058579",
+            "referrer": "no-referrer-when-downgrade",
+            "fb:app_id": "387606842082586",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes",
+            "twitter:description": "Live Cricket Score: Check Live cricket score of all International, Cricket World Cup 2023, Domestic, T20s, ODIs, Tests matches along with upcoming and todays cricket match at Hindustan Times Live Cricket Score Today",
+            "og:locale": "en_us",
+            "og:url": "https://www.hindustantimes.com/cricket/live-score"
+          }
+        ],
+        "cse_image": [
+          { "src": "https://www.hindustantimes.com/res/images/logo.png" }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "India vs South Africa 2nd Test Day 2 Cricket Match Highlights: India ...",
+      "htmlTitle": "India vs South Africa 2nd Test Day 2 <b>Cricket</b> Match Highlights: India ...",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa-live-score-updates-2nd-test-cricket-today-ind-vs-sa-5-days-test-match-newlands-cricket-round/liveblog/106503400.cms",
+      "displayLink": "timesofindia.indiatimes.com",
+      "snippet": "Jan 4, 2024 ... IND vs SA Live Score - Kohli now walks back! OUT! India just 4 runs away from victory, Virat Kohli walks back after getting caught behind downa0...",
+      "htmlSnippet": "Jan 4, 2024 <b>...</b> IND vs SA <b>Live Score</b> - Kohli now walks back! OUT! India just 4 runs away from victory, Virat Kohli walks back after getting caught behind down&nbsp;...",
+      "formattedUrl": "https://timesofindia.indiatimes.com/.../cricket/...cricket-today...cricket.../106...",
+      "htmlFormattedUrl": "https://timesofindia.indiatimes.com/.../<b>cricket</b>/...<b>cricket</b>-<b>today</b>...<b>cricket</b>.../106...",
+      "pagemap": {
+        "LiveBlogPosting": [{}],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRFg4cIeAsQf0S73hxWYv1Ykmr2YpAqcbf1fM_pxMPaUQHt9HvbgatwOs",
+            "width": "305",
+            "height": "165"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "600",
+            "url": "https://static.toiimg.com/photo/msid-58127550/toilogo.jpg",
+            "height": "60"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.toiimg.com/thumb/msid-106503400,width-1070,height-580,imgsize-48822,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "twitter:title": "India vs South Africa 2nd Test Day 2 Cricket Match Highlights: India win 'shortest' Test ever inside 5 sessions; tie series 1-1  - The Times of India",
+            "og:image:width": "1070",
+            "theme-color": "#af2c2c",
+            "og:type": "liveblog",
+            "og:site_name": "The Times of India",
+            "handheldfriendly": "true",
+            "twitter:url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa-live-score-updates-2nd-test-cricket-today-ind-vs-sa-5-days-test-match-newlands-cricket-round/liveblog/106503400.cms",
+            "the times of india": "app-id=427589329,app-argument=https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa-live-score-updates-2nd-test-cricket-today-ind-vs-sa-5-days-test-match-newlands-cricket-round/liveblog/106503400.cms",
+            "og:title": "India vs South Africa 2nd Test Day 2 Cricket Match Highlights: India win 'shortest' Test ever inside 5 sessions; tie series 1-1  - The Times of India",
+            "og:image:height": "580",
+            "y_key": "b1abb36a8d5c19c9",
+            "og:description": "India chased down a modest victory target of 79 to claim a seven-wicket win over hosts South Africa in the second test at Newlands on Thursday and sh",
+            "fb:pages": "26781952138",
+            "twitter:image": "https://static.toiimg.com/thumb/msid-106503400,width-1070,height-580,imgsize-48822,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "fb:app_id": "117787264903013",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "India chased down a modest victory target of 79 to claim a seven-wicket win over hosts South Africa in the second test at Newlands on Thursday and sh",
+            "apple-mobile-web-app-capable": "yes",
+            "mobileoptimized": "width",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa-live-score-updates-2nd-test-cricket-today-ind-vs-sa-5-days-test-match-newlands-cricket-round/liveblog/106503400.cms"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.toiimg.com/thumb/msid-106503400,width-1070,height-580,imgsize-48822,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+          }
+        ],
+        "listitem": [
+          { "item": "News", "name": "News", "position": "1" },
+          { "item": "Sports News", "name": "Sports News", "position": "2" },
+          { "item": "Cricket News", "name": "Cricket News", "position": "3" }
+        ]
+      }
+    }
+  ]
+}
