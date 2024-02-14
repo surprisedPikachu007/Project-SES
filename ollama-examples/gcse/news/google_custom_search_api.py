@@ -2,7 +2,7 @@ import requests
 import urllib.parse as urlparse
 
 params = {
-    "key": "AIzaSyBa5Zc_DZ_9KGKffMu73a5En3vVTHC7z6w",
+    "key": "<API_KEY>",
     "cx": "8238a86e200a44222",
     "q": "cricket news today site:indianexpress.com",
     "start": 0
